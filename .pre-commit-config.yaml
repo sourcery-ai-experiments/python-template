@@ -1,7 +1,7 @@
 ---
 ci:
   autoupdate_schedule: quarterly
-  skip: [poetry-lock, sourcery, pylint, pytest, coverage-badge]
+  skip: ["poetry-lock", "sourcery", "pylint", "pytest", "coverage-badge"]
 
 repos:
   - repo: meta
