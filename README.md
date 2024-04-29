@@ -4,7 +4,7 @@
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 [![tests](https://github.com/Bilbottom/python-template/actions/workflows/tests.yaml/badge.svg)](https://github.com/Bilbottom/python-template/actions/workflows/tests.yaml)
 [![coverage](coverage.svg)](https://github.com/dbrgn/coverage-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Bilbottom/python-template)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Bilbottom/python-template)](https://shields.io/badges/git-hub-last-commit)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)

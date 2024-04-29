@@ -10,6 +10,7 @@ description = ""
 authors = ["Bilbottom"]
 readme = "README.md"
 packages = [{include = "src"}]
+#package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
